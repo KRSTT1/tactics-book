@@ -2,3 +2,5 @@ Formation: 4-4-2
 New Formation 3-5-2
 
 This is a test so I know I can pushe changes myself.
+
+Okay, this is without the stabalizers.
