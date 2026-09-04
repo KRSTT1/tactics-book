@@ -16,3 +16,8 @@ Let me see if this will appear in the main branch after a push.
 
 Hmm, I can't seem to push?
 Will this affect my branch?
+
+I have just created a new branch and am writing this. I am logged in on my test laptop
+with everything set up to my Git. Lets see if this saves.
+
+I am still in my Branch!
